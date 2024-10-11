@@ -1,0 +1,6 @@
+git init 
+cd c: / destok
+git congfig -- gobal username "nimbre de ususario"
+
+git remote origin "http git"
+ clear bash pilla comandos linux
